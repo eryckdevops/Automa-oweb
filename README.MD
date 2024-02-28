@@ -52,7 +52,7 @@ Para usar o sistema, siga estas etapas:
 
   ## Screenshot
 
-![alt text](image-1.png)
+![alt text](image.png)
 
 
 ## 🤝 Desenvolvedor
