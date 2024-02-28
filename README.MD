@@ -39,17 +39,16 @@ pip install pandas
 ``` 
  
 
- > ## Uso**
-
-Para usar o sistema, siga estas etapas:
-
- - :heavy_check_mark: Atualize a file_pathvariável com o caminho para o seu arquivo Excel.
+ > ## Uso
+**Para usar o sistema, siga estas etapas:**
+<br>
+:heavy_check_mark:  Atualize a file_pathvariável com o caminho para o seu arquivo Excel.
  <br>
- - :heavy_check_mark: Defina o Servicecaminho para o local do seu WebDriver.
+:heavy_check_mark:  Defina o Servicecaminho para o local do seu WebDriver.
   <br>
- - :heavy_check_mark: Certifique-se de que o URL de destino para envio do formulário esteja especificado corretamente no script.
+:heavy_check_mark:  Certifique-se de que o URL de destino para envio do formulário esteja especificado corretamente no script.
   <br>
- - :heavy_check_mark: Execute o script. Ele lerá automaticamente a lista de organizações do arquivo Excel e prosseguirá com o envio do formulário.
+:heavy_check_mark:  Execute o script. Ele lerá automaticamente a lista de organizações do arquivo Excel e prosseguirá com o envio do formulário.
  <br>
 
   ## Screenshot
