@@ -11,7 +11,7 @@ Este projeto foi desenvolvido para enfrentar os desafios do gerenciamento repeti
 </div>
 
  
- **Features 🚀**
+ > ## Features 🚀
 - :heavy_check_mark: Automação de envio de formulários : preenche e envia formulários automaticamente para uma lista de organizações.
 <BR>
 - :heavy_check_mark: Tratamento de erros : gerencia exceções com elegância, garantindo que o sistema permaneça operacional mesmo quando encontrar erros imprevistos.
@@ -21,16 +21,17 @@ Este projeto foi desenvolvido para enfrentar os desafios do gerenciamento repeti
 - :heavy_check_mark: Fácil de usar : Projetado com a simplicidade em mente, exigindo intervenção mínima do usuário assim que o processo for iniciado.
 
 
- ## Technologies Used  🚀
-  :heavy_check_mark: Selenium WebDriver : Para automatizar testes de aplicativos da web, garantindo que a interação com o navegador da web e o processo de envio de formulários sejam perfeitos.
+ > ## Technologies Used  🚀
+
+-:heavy_check_mark: Selenium WebDriver : Para automatizar testes de aplicativos da web, garantindo que a interação com o navegador da web e o processo de envio de formulários sejam perfeitos.
    <BR>
-  :heavy_check_mark: Python 
+-:heavy_check_mark: Python 
    <BR>
-  :heavy_check_mark: Pandas : Para manipulação e análise de dados, particularmente útil para lidar com a lista de organizações a registar.
+-:heavy_check_mark: Pandas : Para manipulação e análise de dados, particularmente útil para lidar com a lista de organizações a registar.
 
  
   
-## Run 🚀
+> ## Run 🚀
 
 ```  
 pip install selenium
