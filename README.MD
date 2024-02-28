@@ -12,22 +12,22 @@ Este projeto foi desenvolvido para enfrentar os desafios do gerenciamento repeti
 
  
  > ## Features 🚀
-- :heavy_check_mark: Automação de envio de formulários : preenche e envia formulários automaticamente para uma lista de organizações.
+:heavy_check_mark: Automação de envio de formulários : preenche e envia formulários automaticamente para uma lista de organizações.
 <BR>
-- :heavy_check_mark: Tratamento de erros : gerencia exceções com elegância, garantindo que o sistema permaneça operacional mesmo quando encontrar erros imprevistos.
+:heavy_check_mark: Tratamento de erros : gerencia exceções com elegância, garantindo que o sistema permaneça operacional mesmo quando encontrar erros imprevistos.
 <BR>
-- :heavy_check_mark: Eficiente em termos de tempo : reduz drasticamente o tempo necessário para concluir registros em massa, liberando recursos para outras tarefas críticas.
+:heavy_check_mark: Eficiente em termos de tempo : reduz drasticamente o tempo necessário para concluir registros em massa, liberando recursos para outras tarefas críticas.
 <BR>
-- :heavy_check_mark: Fácil de usar : Projetado com a simplicidade em mente, exigindo intervenção mínima do usuário assim que o processo for iniciado.
+:heavy_check_mark: Fácil de usar : Projetado com a simplicidade em mente, exigindo intervenção mínima do usuário assim que o processo for iniciado.
+<br>
 
 
  > ## Technologies Used  🚀
-
--:heavy_check_mark: Selenium WebDriver 
+:heavy_check_mark: Selenium WebDriver 
     <br>
--:heavy_check_mark: Python 
+:heavy_check_mark: Python 
     <br>
--:heavy_check_mark: Pandas 
+:heavy_check_mark: Pandas 
 
  
   
